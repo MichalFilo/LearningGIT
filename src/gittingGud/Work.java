@@ -6,6 +6,7 @@ package gittingGud;
 
 // Just a comment
 // Another comment and try to update repository from InteliJ
+// One more comment
 
 public class Work {
     public Work(){
