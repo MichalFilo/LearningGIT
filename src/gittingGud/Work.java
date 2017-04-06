@@ -8,7 +8,6 @@ package gittingGud;
 // Another comment and try to update repository from InteliJ
 // One more comment2!
 // Multiple branches comment
-// Comment for dletion
 
 public class Work {
     public Work(){
