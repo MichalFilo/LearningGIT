@@ -7,6 +7,7 @@ package gittingGud;
 // Just a comment
 // Another comment and try to update repository from InteliJ
 // One more comment2!
+// Multiple branches comment Hot Fix
 
 public class Work {
     public Work(){
